@@ -12,6 +12,8 @@ body {
   text-transform: uppercase;
 }
 
+.date {float: right};
+
 .contact-information {
   color: #808284;
   display: inline-block;
@@ -94,8 +96,3 @@ hr {
   margin: 0 10% 0 0;
 }
 
-/*
- Float Rules
-*/
-
-.date {float: right};
